@@ -1,4 +1,4 @@
-# 💀CR4CK INDONESIA💀
+# 💀CR4CK💀
 
 # INSTALL
 
