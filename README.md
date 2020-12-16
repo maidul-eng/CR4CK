@@ -12,8 +12,6 @@
 
 ➠git clone https://github.com/RUL-Z/CR4CK
 
-# RUN
-
 ➠ls
 
 ➠cd CR4CK
